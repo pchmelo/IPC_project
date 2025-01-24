@@ -14,4 +14,4 @@ SunLite is a mobile app whose main goal is to automate users’ homes, with a sp
 3. Valentina Cadime - Email: up202206262@up.pt
 4. Vasco Melo - E-mail: up202207564@up.pt
 
-### Project Grade: /20
+### Project Grade: 18,6/20
